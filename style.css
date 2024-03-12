@@ -101,3 +101,10 @@ p {
     margin: 10px 0;
     font-weight: 600;
 }
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin: 4.5rem 0 20px 0;
+}
