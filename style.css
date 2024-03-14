@@ -18,6 +18,7 @@ body {
 small {
     font-style: italic;
     color: yellow;
+    text-align: center;
 }
 
 .title-header {
